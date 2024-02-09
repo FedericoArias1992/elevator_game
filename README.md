@@ -17,6 +17,14 @@ This project is a simulation of an elevator system implemented using Python and 
 
 The Elevator Simulation project is designed to provide a visual representation of an elevator system. It allows users to interact with the elevator by selecting floors using keyboard input. The simulation displays the movement of the elevator as it travels between floors, opens and closes its doors, and tracks the number of passengers.
 
+The Elevator's max capacity is 9 people, if it reaches max capacity, it automatically goes to first floor, simulation a drop off.
+
+This simulation is used to develop ML operations that minimizes the waiting time for passengers.
+
+For a view of the project:
+https://talentospropygame.itch.io/elevator-game
+Only playable in Desktop, runs on mobile but no user input allowed
+
 ## Features
 
 - Simulation of elevator movement and operation.
@@ -64,7 +72,7 @@ Once the simulation is running, use the keyboard to interact with the elevator:
 ## Screenshots
 
 ![Evotar as Avatar](/Evotar_Image.png)
-*Description of the screenshot.*
+*Image of the Evotar.*
 
 ![Image of the Game](/ReadMe_Image.png)
 *The elevator moving to picking up the Evotar.*
