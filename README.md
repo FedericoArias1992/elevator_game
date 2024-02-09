@@ -22,7 +22,7 @@ The Elevator's max capacity is 9 people, if it reaches max capacity, it automati
 This simulation is used to develop ML operations that minimizes the waiting time for passengers.
 
 For a view of the project:
-https://talentospropygame.itch.io/elevator-game
+https://federicoarias.itch.io/elevator-game
 Only playable in Desktop, runs on mobile but no user input allowed
 
 ## Features
@@ -38,7 +38,7 @@ Only playable in Desktop, runs on mobile but no user input allowed
 To run the Elevator Simulation project, follow these steps:
 
 1. Clone the repository to your local machine:
-    git clone <repository_url>
+    git clone https://github.com/FedericoArias1992/elevator_game.git
 
 2. Navigate to the project directory:
     cd elevator_game
@@ -75,7 +75,7 @@ Once the simulation is running, use the keyboard to interact with the elevator:
 *Image of the Evotar.*
 
 ![Image of the Game](/ReadMe_Image.png)
-*The elevator moving to picking up the Evotar.*
+*The elevator moving to pick up the Evotar.*
 
 ![Resting Elevator](/Elevator_Image.png)
 *Elevator in resting position.*
